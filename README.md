@@ -1,0 +1,2 @@
+# LuckyNote
+Something about LBM.
